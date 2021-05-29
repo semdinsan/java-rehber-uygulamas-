@@ -1,1 +1,1 @@
-# java-rehber-uygulamas-
+# java-rehber-uygulamasi
